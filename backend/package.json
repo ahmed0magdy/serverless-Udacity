@@ -29,6 +29,6 @@
     "typescript": "^3.9.10",
     "webpack": "^4.46.0"
   },
-  "author": "Deepa Subramanian",
+  "author": "Ivan Mushketyk",
   "license": "MIT"
 }
